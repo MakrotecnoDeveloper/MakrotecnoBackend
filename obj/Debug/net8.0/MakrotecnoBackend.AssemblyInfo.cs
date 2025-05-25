@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MakrotecnoBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b729125bfd5e2b15838a3d5abc8f79c46fa3f547")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d508e17944b93b1683f05898c70d238c55a090")]
 [assembly: System.Reflection.AssemblyProductAttribute("MakrotecnoBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MakrotecnoBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
